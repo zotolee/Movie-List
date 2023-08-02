@@ -16,7 +16,7 @@ class UI {
             <td>${movie.title}</td>
             <td>${movie.producer}</td>
             <td>${movie.year}</td>
-            <td><a href="#" class="delete">X</a></td>
+            <td><a href="#" class="delete">x</a></td>
         `;
 
         list.appendChild(row);

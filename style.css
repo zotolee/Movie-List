@@ -1,5 +1,8 @@
 a {
     text-decoration: none;
+    border-radius: 100%;
+    background-color: black;
+    color: white;
 }
 
 .success, .error {
